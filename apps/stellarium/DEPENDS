@@ -10,8 +10,11 @@ depends qt6-charts
 depends qt6-multimedia
 depends qt6-positioning
 depends qt6-serialport
-depends qt6-webengine 
+depends qt6-svg
+depends qt6-webengine
 depends qt6-tools
 depends QXlsx
 
-optional_depends calcmysky "-DENABLE_SHOWMYSKY=ON"      "-DENABLE_SHOWMYSKY=OFF" "to simulate scattering of light"
+optional_depends calcmysky "-DENABLE_SHOWMYSKY=ON" \
+                           "-DENABLE_SHOWMYSKY=OFF" \
+                           "to simulate scattering of light"

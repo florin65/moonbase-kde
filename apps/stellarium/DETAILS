@@ -1,11 +1,11 @@
           MODULE=stellarium
-         VERSION=25.4
+         VERSION=26.1
           SOURCE=$MODULE-$VERSION.tar.gz
       SOURCE_URL=https://github.com/Stellarium/stellarium/releases/download/v${VERSION}/
-      SOURCE_VFY=sha256:43818763fa829b0b35058122247e7e5e450eae8256207f2191b95961ddce9080
+      SOURCE_VFY=sha256:52b4b7fdd7cc905961e51d6ffc27302a88514fef976be6f1b3192c549b9087c3
         WEB_SITE=http://stellarium.free.fr
          ENTERED=20040420
-         UPDATED=20260316
+         UPDATED=20260406
            SHORT="Stellarium astronomy software"
 
 cat << EOF
