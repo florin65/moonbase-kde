@@ -4,6 +4,7 @@ export LANG='en_US.UTF-8'
 OPTS+=" -DCMAKE_INSTALL_PREFIX=/usr \
         -DCMAKE_BUILD_TYPE=Release \
         -DBUILD_UTILS=ON \
+        -DENABLE_QT6=ON \
         -Wno-dev"
 
 cmake -B $MODULE-$VERSION -S . -G Ninja $OPTS &&
