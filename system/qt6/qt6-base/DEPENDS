@@ -19,6 +19,7 @@ depends Vulkan-Headers
 depends libinput
 depends libxkbcommon
 depends fontconfig
+depends liburing
 depends libmng
 depends libjpeg-turbo
 depends libpng
