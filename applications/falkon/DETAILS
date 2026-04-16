@@ -1,11 +1,11 @@
           MODULE=falkon
-         VERSION=25.12.3
+         VERSION=26.04.0
           SOURCE=${MODULE}-${VERSION}.tar.xz
       SOURCE_URL=$KDE_URL/stable/release-service/$VERSION/src/
-      SOURCE_VFY=sha256:25f90957335058fff8536b511135e36d96e74c49fab45690be89b994015777b5
+      SOURCE_VFY=sha256:f1f7b91cedc70bf51010f1eecb06f8d5cc4f170f77105b9ffaf0bb1dd6cf075c
         WEB_SITE="https://www.falkon.org/"
          ENTERED=20181207
-         UPDATED=20260305
+         UPDATED=20260416
            SHORT="Cross-platform Qt Web Browser"
 cat << EOF
 Falkon (formerly QupZilla) is a free and open-source web browser. It

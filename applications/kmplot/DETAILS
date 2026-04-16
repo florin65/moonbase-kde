@@ -1,11 +1,11 @@
           MODULE=kmplot
-         VERSION=25.12.3
+         VERSION=26.04.0
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/release-service/$VERSION/src
-      SOURCE_VFY=sha256:4d9bf8bc654ce1e4b477e156e5d4c1a117374e2220398c7e7baa818e214eb043
+      SOURCE_VFY=sha256:46ca9b478e0ec7ff92298e1c9fc9a79d4caa74ff2781bd6c34ac93087e89c01c
         WEB_SITE=http://www.kde.org/applications/education/kmplot/
          ENTERED=20110813
-         UPDATED=20260305
+         UPDATED=20260416
            SHORT="Mathematical Function Plotter"
 
 cat << EOF

@@ -1,11 +1,11 @@
           MODULE=audex
-         VERSION=25.12.3
+         VERSION=26.04.0
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/release-service/$VERSION/src
-      SOURCE_VFY=sha256:ecc7a2ebdda77ccb4395f802f6dba668b2baa75ba190d3ace778edcb46de21df
+      SOURCE_VFY=sha256:96daa3701b7019221b623f3a1c979980a71b048cc98ab3a62843df7f27122157
         WEB_SITE=https://invent.kde.org/multimedia/audex
          ENTERED=20240802
-         UPDATED=20260305
+         UPDATED=20260416
            SHORT="audio grabber tool for CD-ROM drives built with KDE Frameworks"
 
 cat << EOF

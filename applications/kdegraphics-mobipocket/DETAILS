@@ -1,11 +1,11 @@
           MODULE=kdegraphics-mobipocket
-         VERSION=25.12.3
+         VERSION=26.04.0
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/release-service/$VERSION/src
-      SOURCE_VFY=sha256:fbe6c0a2a15c124fa8f6052ec44329d3de2850018f4c25edbef8c163626b1e56
+      SOURCE_VFY=sha256:78b48775544dd4bc2bbec8c13c479eaa1668e50e420e8249b5eafd6f8f7311f9
         WEB_SITE=http://www.kde.org
          ENTERED=20120125
-         UPDATED=20260305
+         UPDATED=20260416
            SHORT="Plugins to handle mobipocket files"
 
 cat << EOF

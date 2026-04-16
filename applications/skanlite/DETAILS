@@ -1,11 +1,11 @@
           MODULE=skanlite
-         VERSION=25.12.3
+         VERSION=26.04.0
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/release-service/$VERSION/src
-      SOURCE_VFY=sha256:e30dfc3601545291fc3d813ceaafcee91d0b850dcb54688be49a0f431779501f
+      SOURCE_VFY=sha256:668963c3e8a9b204abbbaa5d80f382f589cd3001a84a8ad012c0d72184e14465
         WEB_SITE=http://www.kde.org
          ENTERED=20080715
-         UPDATED=20260305
+         UPDATED=20260416
            SHORT="Simple image scanning application"
 
 cat << EOF

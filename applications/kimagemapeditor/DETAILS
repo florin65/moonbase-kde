@@ -1,12 +1,12 @@
           MODULE=kimagemapeditor
-         VERSION=25.12.3
+         VERSION=26.04.0
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/release-service/$VERSION/src
-      SOURCE_VFY=sha256:313786289a31324b79bd94e94c2a59b51b325edd6f3f63d69c84709ca3addf66
+      SOURCE_VFY=sha256:71bc88310a029e71c29cd281c7ae06caf60b19fb208332a535afa7f8db9ac34b
    MODULE_PREFIX=${KDE_INSTALL_DIR:-/usr}
         WEB_SITE=https://userbase.kde.org/KImageMapEditor
          ENTERED=20171205
-         UPDATED=20260305
+         UPDATED=20260416
            SHORT="HTML imagemap editor"
 
 cat << EOF

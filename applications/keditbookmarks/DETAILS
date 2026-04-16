@@ -1,12 +1,12 @@
           MODULE=keditbookmarks
-         VERSION=25.12.3
+         VERSION=26.04.0
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/release-service/$VERSION/src
-      SOURCE_VFY=sha256:1b96aefbcb1a9fd75304938af28215688afc43d806eec7d453de078721dd1c2e
+      SOURCE_VFY=sha256:ebaff000124ea716fe39d7de89049ce5fde0d8da64432c0ec87e9279bf053bd2
    MODULE_PREFIX=${KDE_INSTALL_DIR:-/usr}
         WEB_SITE=http://utils.kde.org/projects/kgpg/
          ENTERED=20171201
-         UPDATED=20260305
+         UPDATED=20260416
            SHORT="Bookmark editor and organizer"
 
 cat << EOF

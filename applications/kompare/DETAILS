@@ -1,12 +1,12 @@
           MODULE=kompare
-         VERSION=25.12.3
+         VERSION=26.04.0
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/release-service/$VERSION/src
-      SOURCE_VFY=sha256:97b01230aa06ba7e3bfff5e2c2ac4cc43b87ed18e4ae98851d5fb4a1314dc353
+      SOURCE_VFY=sha256:fcde2ab01d1825988d8be4916ebf8f255a3324a53c35c382e8c7909bbca62d57
    MODULE_PREFIX=${KDE_INSTALL_DIR:-/usr}
         WEB_SITE=http://www.kde.org/applications/development/kompare/
          ENTERED=20130814
-         UPDATED=20260305
+         UPDATED=20260416
            SHORT="A diff patch frontend"
 
 cat << EOF

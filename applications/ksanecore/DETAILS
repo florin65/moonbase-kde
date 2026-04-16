@@ -1,11 +1,11 @@
           MODULE=ksanecore
-         VERSION=25.12.3
+         VERSION=26.04.0
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/release-service/$VERSION/src
-      SOURCE_VFY=sha256:60476b5e7ad764142cf69af1f827e9f7af8883eae3cbd3faa6d1a42d635ee282
+      SOURCE_VFY=sha256:35091dc0b3ad4963e30aaecd63d76ba9a964c9817cf37a6506c2150138c3421a
         WEB_SITE=https://konsole.kde.org/
          ENTERED=20220820
-         UPDATED=20260305
+         UPDATED=20260416
            SHORT="logic to interface scanners"
 
 cat << EOF

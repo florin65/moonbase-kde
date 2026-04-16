@@ -1,11 +1,11 @@
           MODULE=kmail-account-wizard
-         VERSION=25.12.3
+         VERSION=26.04.0
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/release-service/$VERSION/src
-      SOURCE_VFY=sha256:0a41268e6b153700c4c815da1baa40637efa61943f4e387f66cf5599d8e8d502
+      SOURCE_VFY=sha256:86cb52249606ab44200e97d8f68a245d945b4f89816c6de8d6481e2c98918d11
         WEB_SITE=https://community.kde.org/KDE_PIM
          ENTERED=20171205
-         UPDATED=20260305
+         UPDATED=20260416
            SHORT="Kmail account wizard"
 
 cat << EOF

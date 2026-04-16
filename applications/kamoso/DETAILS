@@ -1,12 +1,12 @@
           MODULE=kamoso
-         VERSION=25.12.3
+         VERSION=26.04.0
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/release-service/$VERSION/src
-      SOURCE_VFY=sha256:781aa669979a0326994f90f71e8c2a391d89ec2e1fef066146773577fe8eb864
+      SOURCE_VFY=sha256:3fef5054c3b972a3c59fbf4e204a6e7c3ea83818ba4941385c6239d23f3a1965
    MODULE_PREFIX=${KDE_INSTALL_DIR:-/usr}
         WEB_SITE=https://userbase.kde.org/Kamoso
          ENTERED=20180420
-         UPDATED=20260305
+         UPDATED=20260416
            SHORT="A webcam recorder"
 
 cat << EOF

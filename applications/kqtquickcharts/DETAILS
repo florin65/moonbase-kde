@@ -1,12 +1,12 @@
           MODULE=kqtquickcharts
-         VERSION=25.12.3
+         VERSION=26.04.0
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/release-service/$VERSION/src
-      SOURCE_VFY=sha256:6c590488698efca35d0db93b1b03264cc5da1e7c726d19f62272255a7469dc4b
+      SOURCE_VFY=sha256:c3389dfe523cd6d29b8308f2eeea67b867f63299f932c969d869d2b487d6df29
    MODULE_PREFIX=${KDE_INSTALL_DIR:-/usr}
         WEB_SITE=https://projects.kde.org/projects/kde/kdeedu/kqtquickcharts
          ENTERED=20150214
-         UPDATED=20260305
+         UPDATED=20260416
            SHORT="QtQuick plugin to render beautiful and interactive charts"
 
 cat << EOF

@@ -1,11 +1,11 @@
           MODULE=akonadi-calendar
-         VERSION=25.12.3
+         VERSION=26.04.0
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/release-service/$VERSION/src
-      SOURCE_VFY=sha256:ac606d2210ba581167b0f17bc81dc60ed4c0de66daf9adcd55fce25c73c60014
+      SOURCE_VFY=sha256:942a1cd2e1d154c2274921e48439e649647ffe5aae85cdd464a2bc4e554a9230
         WEB_SITE=http://techbase.kde.org/Getting_Started/Build/KDE4/Troubleshooting
          ENTERED=20151122
-         UPDATED=20260305
+         UPDATED=20260416
            SHORT="A PIM layer for KDE 4.x"
 
 cat << EOF

@@ -1,11 +1,11 @@
           MODULE=kio-gdrive
-         VERSION=25.12.3
+         VERSION=26.04.0
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/release-service/$VERSION/src
-      SOURCE_VFY=sha256:d1035fa5abc0e9c46efce592863c147c86c3c41bdbbef02f38f5b801b37895d2
+      SOURCE_VFY=sha256:4e41302539182e4bca482eb1bd93b2f15315e2a39d6ff0844a50a07098c541aa
         WEB_SITE=https://community.kde.org/KIO_GDrive
          ENTERED=20171203
-         UPDATED=20260305
+         UPDATED=20260416
            SHORT="gdrive kio for dolphin"
 
 cat << EOF

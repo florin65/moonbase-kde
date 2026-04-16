@@ -1,12 +1,12 @@
           MODULE=signon-kwallet-extension
-         VERSION=25.12.3
+         VERSION=26.04.0
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/release-service/$VERSION/src
-      SOURCE_VFY=sha256:4fc7566893bf8dd0d6e236d52e13319c809642b7e85f6680bcfbad47888a4836
+      SOURCE_VFY=sha256:82c4c7136b3d9aa8c84eef7170cb9f042adf74bd7e322bbddad8f9d6cd923802
    MODULE_PREFIX=${KDE_INSTALL_DIR:-/usr}
         WEB_SITE=https://userbase.kde.org/sigon-kwallet-extention
          ENTERED=20150416
-         UPDATED=20260305
+         UPDATED=20260416
            SHORT="Extentions for kwallet"
 
 cat << EOF

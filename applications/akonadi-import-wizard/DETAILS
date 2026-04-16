@@ -1,12 +1,12 @@
           MODULE=akonadi-import-wizard
-         VERSION=25.12.3
+         VERSION=26.04.0
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/release-service/$VERSION/src
-      SOURCE_VFY=sha256:21d12c6b38b04ea19320afe97907986a9a432a9cf6cff33afe015dc1aa6404b6
+      SOURCE_VFY=sha256:f5fd55afb52a9fab9db659a13c03efea236e36e8ae33dc5a0643e92689ee8cdc
    MODULE_PREFIX=${KDE_INSTALL_DIR:-/usr}
         WEB_SITE=https://community.kde.org/KDE_PIM
          ENTERED=20171201
-         UPDATED=20260305
+         UPDATED=20260416
            SHORT="import email into kmail"
 
 cat << EOF

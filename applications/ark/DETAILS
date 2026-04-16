@@ -1,12 +1,12 @@
           MODULE=ark
-         VERSION=25.12.3
+         VERSION=26.04.0
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/release-service/$VERSION/src
-      SOURCE_VFY=sha256:81f27ef08e216f3cedce10a2b2e2c74ba27735219d8f149c9d1399f7565e028b
+      SOURCE_VFY=sha256:4ed65adb552f2aa981b1ff08f5ad5989ee4882c0e69be04977cbf42870b58f7c
    MODULE_PREFIX=${KDE_INSTALL_DIR:-/usr}
         WEB_SITE=http://utils.kde.org/projects/ark/
          ENTERED=20120125
-         UPDATED=20260305
+         UPDATED=20260416
            SHORT="managing various archive formats"
 
 cat << EOF

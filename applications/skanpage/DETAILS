@@ -1,11 +1,11 @@
           MODULE=skanpage
-         VERSION=25.12.3
+         VERSION=26.04.0
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/$MODULE/$VERSION
-      SOURCE_VFY=sha256:2133b783bafb2e7d8cae873b648f10bf2d6edd7baa31d34fcc6c4b0d6507a13d
+      SOURCE_VFY=sha256:0c5450ddf8ca203407f74035fec45c17d59ddcd8f9d2e986c88a750d90bdc45a
         WEB_SITE=https://apps.kde.org/skanpage/
          ENTERED=20211106
-         UPDATED=20260305
+         UPDATED=20260416
            SHORT="multi-page scanning"
 
 cat << EOF

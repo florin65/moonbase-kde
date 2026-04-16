@@ -1,12 +1,12 @@
           MODULE=kdeedu-data
-         VERSION=25.12.3
+         VERSION=26.04.0
           SOURCE=$MODULE-$VERSION.tar.xz
       SOURCE_URL=$KDE_URL/stable/release-service/$VERSION/src
-      SOURCE_VFY=sha256:ce32148f41a2776a02a593035ba5c3df573b7fa0123a8134b9255c9de3b27f04
+      SOURCE_VFY=sha256:e1bfb87224fee90052b6a288028ad3dadbc4e2793638d9c8e99cbc8a72486300
    MODULE_PREFIX=${KDE_INSTALL_DIR:-/usr}
         WEB_SITE=http://edu.kde.org/
          ENTERED=20150214
-         UPDATED=20260305
+         UPDATED=20260416
            SHORT="Various icons"
 
 cat << EOF
