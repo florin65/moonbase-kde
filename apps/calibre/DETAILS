@@ -1,11 +1,11 @@
           MODULE=calibre
-         VERSION=9.6.0
+         VERSION=9.7.0
           SOURCE=$MODULE-$VERSION.tar.gz
  SOURCE_URL_FULL=https://github.com/kovidgoyal/calibre/archive/refs/tags/v$VERSION.tar.gz
-      SOURCE_VFY=sha256:f105f3df11ee65408db53aea760fdae1ec3f1781711e0f13d4ae233be14487bc
+      SOURCE_VFY=sha256:078c379bcb416027a804de105cabca75a95f04b624d80259a6ca4a11a3ace8e1
         WEB_SITE=http://www.calibre-ebook.com/
          ENTERED=20090108
-         UPDATED=20260329
+         UPDATED=20260418
            SHORT="eBook management"
 
 cat << EOF
